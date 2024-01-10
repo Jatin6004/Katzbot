@@ -1,5 +1,5 @@
-# yukatzbot
-The official repository for Katz School's Internet Bot developed for the MS in Artificial Intelligence program
+# Katzbot
+Katz School's Internet Bot developed for the MS in Artificial Intelligence program
 
 ## Technologies
 <div align="center">   
